@@ -27,8 +27,6 @@
         "bower_components"
     ],
     "dependencies": {
-        "gridi-framework-core": "*",
-        "gridi-framework-grid": "*",
         "gridi-framework-grid-offset-columns": "*"
     }
 }
